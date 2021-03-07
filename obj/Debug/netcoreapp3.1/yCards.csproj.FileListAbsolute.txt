@@ -1,0 +1,16 @@
+C:\Users\alope\Desktop\yCards\yCards\bin\Debug\netcoreapp3.1\yCards.exe
+C:\Users\alope\Desktop\yCards\yCards\bin\Debug\netcoreapp3.1\yCards.deps.json
+C:\Users\alope\Desktop\yCards\yCards\bin\Debug\netcoreapp3.1\yCards.runtimeconfig.json
+C:\Users\alope\Desktop\yCards\yCards\bin\Debug\netcoreapp3.1\yCards.runtimeconfig.dev.json
+C:\Users\alope\Desktop\yCards\yCards\bin\Debug\netcoreapp3.1\yCards.dll
+C:\Users\alope\Desktop\yCards\yCards\bin\Debug\netcoreapp3.1\yCards.pdb
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.csprojAssemblyReference.cache
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.Form1.resources
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.Properties.Resources.resources
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.csproj.GenerateResource.cache
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.AssemblyInfoInputs.cache
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.AssemblyInfo.cs
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.csproj.CoreCompileInputs.cache
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.dll
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.pdb
+C:\Users\alope\Desktop\yCards\yCards\obj\Debug\netcoreapp3.1\yCards.genruntimeconfig.cache
